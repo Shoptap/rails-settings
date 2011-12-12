@@ -3,7 +3,7 @@ $:.push File.expand_path('../lib', __FILE__)
 require 'rails-settings/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'ledermann-rails-settings'
+  s.name        = 'rails-settings'
   s.version     = RailsSettings::VERSION
   s.authors     = ['Georg Ledermann']
   s.email       = ['mail@georg-ledermann.de']
